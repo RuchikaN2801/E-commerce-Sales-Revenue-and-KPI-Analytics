@@ -224,7 +224,3 @@ ecommerce-sales-dashboard/
 ✅ Select a Category     → Drill into Technology / Furniture / Office Supplies
 ✅ Hover on any chart    → See detailed tooltips
 
-
-*Built with 💛 using Power BI · DAX · Data Storytelling*
-
-</div>
